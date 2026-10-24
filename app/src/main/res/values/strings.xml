@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Собака на обоях</string>
+    <string name="wallpaper_description">Анимированная собака гуляет по рабочему столу: машет хвостом, моргает и бежит за пальцем</string>
+    <string name="install_wallpaper">Установить живые обои</string>
+    <string name="preview_hint">Нажмите на экран — собака подбежит и подпрыгнет</string>
+    <string name="no_wallpaper_picker">На этом телефоне не нашлось экрана выбора живых обоев. Откройте «Настройки → Обои → Живые обои» и выберите «Собака на обоях».</string>
+</resources>
