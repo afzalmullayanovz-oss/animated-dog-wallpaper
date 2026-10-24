@@ -1,0 +1,20 @@
+# Built files
+build/
+captures/
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+
+# Gradle
+.gradle/
+local.properties
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+.DS_Store
+
+# Kotlin
+.kotlin/
