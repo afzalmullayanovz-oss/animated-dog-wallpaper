@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Иконка приложения: морда собаки, нарисованная векторно -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- уши -->
+    <path
+        android:fillColor="#6F4520"
+        android:pathData="M32,36 C20,32 13,45 18,59 C21,68 28,70 31,63 Z" />
+    <path
+        android:fillColor="#6F4520"
+        android:pathData="M76,36 C88,32 95,45 90,59 C87,68 80,70 77,63 Z" />
+
+    <!-- голова -->
+    <path
+        android:fillColor="#C98A4B"
+        android:pathData="M54,28 a30,30 0 1,0 0,60 a30,30 0 1,0 0,-60 z" />
+
+    <!-- морда -->
+    <path
+        android:fillColor="#EDC99C"
+        android:pathData="M40,64 a14,12 0 1,0 28,0 a14,12 0 1,0 -28,0 z" />
+
+    <!-- глаза -->
+    <path
+        android:fillColor="#2B2118"
+        android:pathData="M40,50 a4.5,4.5 0 1,0 9,0 a4.5,4.5 0 1,0 -9,0 z" />
+    <path
+        android:fillColor="#2B2118"
+        android:pathData="M59,50 a4.5,4.5 0 1,0 9,0 a4.5,4.5 0 1,0 -9,0 z" />
+
+    <!-- нос -->
+    <path
+        android:fillColor="#6F4520"
+        android:pathData="M49,62 a5,5 0 1,0 10,0 a5,5 0 1,0 -10,0 z" />
+
+    <!-- язык -->
+    <path
+        android:fillColor="#EE7A82"
+        android:pathData="M51,74 a4,6 0 1,0 8,0 a4,6 0 1,0 -8,0 z" />
+</vector>
